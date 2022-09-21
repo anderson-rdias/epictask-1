@@ -1,11 +1,12 @@
-# epictask - API
+Integrantes do Grupo (2TDSH):
 
-## Turma: 2TDSH
-## Grupo: Polaris
-Integrantes: 
-<ul>
-  <li>Daniel Augusto Y.     RM88397</li>
-  <li>Guilherme Arevalo B.  RM89072</li>
-  <li>João Henrique         RM88822</li>
-  <li>Cláudio Jin           RM88249</li>
-</ul>
+ANDERSON RODRIGUES DIAS - RM88008
+
+GUSTAVO DIAZ GONZALEZ - RM87142
+
+HELLEN CRISTINA PEREIRA BRITO - RM86415
+
+OTÁVIO SANTOS DO CARMO - RM87075
+
+WILLIAM DE SOUZA CARVALHO BOZZATO - RM86780
+
