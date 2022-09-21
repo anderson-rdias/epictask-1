@@ -32,7 +32,7 @@ public class DatabaseSeed implements CommandLineRunner {
     public void run(String... args) throws Exception {
 
         usuarioRepository.save( new Usuario()
-                        .name("Admin")
+                        .nome("Admin")
                         .email("admin@fiap.com.br")
                         .senha(passwordEncoder.encode("administrador"))
                         // .roles(new Role("ADMIN"))

@@ -40,7 +40,7 @@ public class Usuario implements UserDetails {
         this.roles = roles;
     }
 
-    public Usuario name(String nome) {
+    public Usuario nome(String nome) {
         Assert.notNull(nome, "nome é obrigatório");
         this.nome = nome;
         return this;
